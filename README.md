@@ -7,11 +7,11 @@ this game was made from Tutorials on youtube and is made just to learn making ga
 Welcome to Snake with Nrup. In this game you have to eat your prey in order to grow.
 as the classic snake game is.
 
-Softwre required:
+Softwres required:
 Python has to be installed into your system and pygame library should be Installed.
 
 Installation steps:
-download the pygame learning folder into your system and open it.
+download the repository and open it and open the pygame learning folder into your system.
 open the Snake Game.py file and you can play the game
 
 How to Play:
