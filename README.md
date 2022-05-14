@@ -3,7 +3,7 @@ Hello welcome to my first pygame.
 
 
 ## 
-this game was made from Tutorials on youtube and is made just to learn making game in ygame library.
+this game was made from Tutorials on youtube and is made just to learn making game in pygame library.
 Welcome to Snake with Nrup. In this game you have to eat your prey in order to grow.
 as the classic snake game is.
 
