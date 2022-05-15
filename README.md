@@ -12,7 +12,7 @@ Python has to be installed into your system and pygame library should be Install
 
 Installation steps:
 download the repository from : https://github.com/nrup-rawal/Nrup-first-pygame and open it and open the pygame learning folder into your system.
-open the Snake Game.py file and you can play the game
+open the Snake Game.exe file and you can play the game
 
 How to Play:
 1. press spacebar to start the game
